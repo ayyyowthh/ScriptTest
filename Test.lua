@@ -8,8 +8,8 @@ if game.PlaceId ~= requiredGameId then
 end
 
 local allowedUsernames = {
-    "",
-    "",
+    "JJDHC02",
+    "JJDHC13",
     "",
     ""
 }
